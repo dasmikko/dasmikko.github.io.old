@@ -1,5 +1,6 @@
 ---
-published: true
+layout: post
+title: First post!
 ---
 
 Finally got my blog up and running!
