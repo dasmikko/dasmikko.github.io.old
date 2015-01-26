@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Pong Game by Mikkel Andersen!</title>
+        <link rel="stylesheet" href="css/stylesheet.css">
+        <script src="lib/phaser.min.js"></script>
+        <script src="boot.js"></script>
+        <script src="preload.js"></script>
+		<script src="gametitle.js"></script>
+        <script src="game.js"></script>
+        <script src="gameover.js"></script>
+        <script>
+            
+        	var game = new Phaser.Game(640, 360, Phaser.AUTO, 'game');
+        	game.state.add("Boot",boot);
+        	game.state.add("Preload",preload);
+        	game.state.add("GameTitle",gameTitle);
+        	game.state.add("TheGame",theGame);
+        	game.state.add("GameOver",gameOver);
+
+        	// Boot game
+        	game.state.start("Boot");
+        </script>
+    </head>
+    <body>
+    
+    
+
+    </body>
+</html>
