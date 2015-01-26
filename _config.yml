@@ -9,8 +9,8 @@ relative_permalinks: true
 # Setup
 title:            Code Made In Denmark
 tagline:          'A danish programmer who does web-development and indie-game development'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+description:      'A danish programmer who loves to do web and game developmemt'
+url:              http://dasmikko.github.io
 baseurl:          /
 
 author:
