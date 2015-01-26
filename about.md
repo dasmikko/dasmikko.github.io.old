@@ -15,11 +15,13 @@ My name is Mikkel, and I'm 21 years old.
 I spent most of my waking hours on my work and my lovely Wife.
 
 I love to code in different languanges, and I'm strongest in the following:
+
 - HTML/CSS
 - PHP
 - Javascript
 
 I have used to work with these framworks/CMS:
+
 - Laravel (PHP)
 - Kohana (PHP)
 - Wordpress
