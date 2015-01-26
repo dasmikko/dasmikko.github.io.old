@@ -12,4 +12,4 @@ published: true
 
 My name is Mikkel, and I'm 21 years old.
 
-I spent most of my wake hours on my work and my lovely Wife.
+I spent most of my waking hours on my work and my lovely Wife.
