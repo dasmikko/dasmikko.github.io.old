@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 Finally got my blog up and running!
