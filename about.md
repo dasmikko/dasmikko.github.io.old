@@ -19,6 +19,8 @@ I love to code in different languanges, and I'm strongest in the following:
 - HTML/CSS
 - PHP
 - Javascript
+- Node.js
+- Io.js
 
 I have used to work with these framworks/CMS:
 
@@ -26,8 +28,7 @@ I have used to work with these framworks/CMS:
 - Kohana (PHP)
 - Wordpress
 
-At the moment I make games using [Phaser.js](phaser.io "Phaser framework") which is super fun, and easy to use.
-Take a look at my first game [pong](http://dasmikko.github.io/public/games/pong-game/ "Pong game")
+I love to make applications with NW.js (AKA Node-webkit) as it's easy, and you can make sweet looking UX with ease.
 
 Feel free to follow my [twitter](https://twitter.com/Dasmikko "My twitter profile") for more updates and such.
 
