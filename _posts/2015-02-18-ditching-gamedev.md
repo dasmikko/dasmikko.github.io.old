@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Ditching game-development
+comments: true
 ---
 
 ## Really?
