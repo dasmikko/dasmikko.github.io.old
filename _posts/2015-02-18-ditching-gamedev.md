@@ -1,10 +1,12 @@
 ---
+layout: post
 published: true
+title: Ditching game-development
 ---
 
-## Ditching game-development
+## Really?
 
-I have decided to ditch game development, and started on working with NW.js again!
+Yes, I have decided to ditch game development, and started on working with NW.js again!
 
 It's super fun and easy to use!
 
