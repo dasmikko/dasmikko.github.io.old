@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Ditching game-development
