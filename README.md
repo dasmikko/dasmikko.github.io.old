@@ -1,5 +1,5 @@
 # Welcome
 
-Check out my a blog/portfolio here: [dasmikko.github.io](dasmikko.github.io)
+Check out my a blog/portfolio here: [dasmikko.github.io](http://dasmikko.github.io)
 
 
