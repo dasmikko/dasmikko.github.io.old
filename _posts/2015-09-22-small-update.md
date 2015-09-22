@@ -1,9 +1,12 @@
 ---
+layout: post
 published: true
+title: A small update
+comments: true
 ---
 
 
-## Small update!
+## Sweet!
 
 I'm starting to get more time for the blog, and projects again.
 
