@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+![Avatar](/public/avatar.jpg)
+
 Hi there! 
 
 My name is Mikkel (also known as rekNa), and this my little corner of the internet.
