@@ -17,7 +17,7 @@ Here is a list of upgrades i've done to my printer.
 #### Dual gear extruder
 This should allow me to more easily use softer filaments like TPU. It's also makes it a more stable extuder.
 
-[![Dual gear extruder](/public/3dprinter/extruder.jpg "Dual gear extruder")](/public/3dprinter/extruder.jpg "Dual gear extruder"){:.aspect-video}
+[![Dual gear extruder](/public/3dprinter/extruder.jpg "Dual gear extruder"){:.aspect-video}](/public/3dprinter/extruder.jpg "Dual gear extruder")
 
 #### PEI bed plate
 I have ditched the old stock glass bed, which I had a ton of adhesion issues with. Now I use a nice powder coated PEI plate, that is mounted magnetically, and is flexiable. Which also makes the print adhere better, and very easy to remove when cooled off.
