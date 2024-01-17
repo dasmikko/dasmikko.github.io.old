@@ -17,12 +17,12 @@ Here is a list of upgrades i've done to my printer.
 #### Dual gear extruder
 This should allow me to more easily use softer filaments like TPU. It's also makes it a more stable extuder.
 
-![Dual gear extruder](/public/3dprinter/extruder.jpg){.aspect-video}
+![Dual gear extruder](/public/3dprinter/extruder.jpg){:.aspect-video}
 
 #### PEI bed plate
 I have ditched the old stock glass bed, which I had a ton of adhesion issues with. Now I use a nice powder coated PEI plate, that is mounted magnetically, and is flexiable. Which also makes the print adhere better, and very easy to remove when cooled off.
 
-![PEI bed](/public/3dprinter/bed.jpg){.aspect-video}
+![PEI bed](/public/3dprinter/bed.jpg){:.aspect-video}
 
 #### Capricon bowden tube
 This is just a better PTFE bowden tube from Capricon
@@ -30,7 +30,7 @@ This is just a better PTFE bowden tube from Capricon
 #### PrimaCreator Ruby nozzle 0.4mm
 This nozzle should allow me to print with various abbrasive filaments, without nozzle weardown.
 
-![Ruby nozzle](/public/3dprinter/nozzle.jpg){.aspect-video}
+![Ruby nozzle](/public/3dprinter/nozzle.jpg){:.aspect-video}
 
 #### Custom firmware (Community firmware)
 I have flashed the better community firmware, that adds a bunch of new features.
