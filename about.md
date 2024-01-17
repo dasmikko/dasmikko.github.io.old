@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Avatar](/public/avatar.jpg)
+![Avatar](/public/avatar.jpg){.aspect-square}
 
 Hi there! 
 
