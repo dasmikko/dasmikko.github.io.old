@@ -11,7 +11,7 @@ You can so quickly whip something together in a CAD software, and sit with it in
 
 I'm currently sporting a Creality CR-6 SE, with a couple of upgrades.
 
-### Upgrades
+### Upgrades 🔧
 Here is a list of upgrades i've done to my printer.
 
 #### Dual gear extruder
@@ -30,8 +30,14 @@ This is just a better PTFE bowden tube from Capricon
 #### PrimaCreator Ruby nozzle 0.4mm
 This nozzle should allow me to print with various abbrasive filaments, without nozzle weardown.
 
+![Ruby nozzle](/public/3dprinter/nozzle.jpg)
+
 #### Custom firmware (Community firmware)
 I have flashed the better community firmware, that adds a bunch of new features.
 
 ### Future upgrades
 I'm planning on upgrading the Hotend to the MicroSwiss all metal hotend, which should help with potentional heat creep issues.
+
+Currently my printer is inside my house, but I'm planning to move it to my shed, so I can print at night, and not have to worry about the noise. 
+
+I will blog about it, so stay tuned!
