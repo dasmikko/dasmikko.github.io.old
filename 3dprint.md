@@ -23,6 +23,9 @@ I have ditched the old stock glass bed, which I had a ton of adhesion issues wit
 #### Capricon bowden tube
 This is just a better PTFE bowden tube from Capricon
 
+#### PrimaCreator Ruby nozzle 0.4mm
+This nozzle should allow me to print with various abbrasive filaments, without nozzle weardown.
+
 #### Custom firmware (Community firmware)
 I have flashed the better community firmware, that adds a bunch of new features.
 
