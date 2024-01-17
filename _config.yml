@@ -10,14 +10,7 @@ header_pages:
 style: dark # dark (default), light or hacker
 listen_for_clients_preferred_style: false # false (default) or true
 
-footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
-
-
-# About/contact
-author:
-  name:              rekNa
-  url:               https://twitter.com/dasmikko
-  email:             dasmikko@gmail.com
+footer: 'follow me on <a href="https://twitter.com/dasmikko">twitter/x</a>'
 
 # Gems
 plugins:
