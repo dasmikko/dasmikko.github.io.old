@@ -9,7 +9,7 @@ You can so quickly whip something together in a CAD software, and sit with it in
 
 ## My Gear
 
-I'm currently sporting a Creality CR-6 SE, with a couple of upgrades.
+I'm currently sporting a **Creality CR-6 SE**, with a couple of upgrades.
 
 ### Upgrades 🔧
 Here is a list of upgrades i've done to my printer.
