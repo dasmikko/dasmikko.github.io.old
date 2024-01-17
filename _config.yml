@@ -1,12 +1,16 @@
 # Setup
-title:               rekNa's little corner
-tagline:             'random tech stuff'
-description:         'Welcome to my little corner of the internet! I will blog about random projects, from web/app development to keyboard stuff'
-url:                 https://rekna.xyz
 baseurl:             ''
-paginate:            5
-permalink:           pretty
 remote_theme:        b2a3e8/jekyll-theme-console
+
+header_pages:
+  - index.md
+  - about.md
+
+style: dark # dark (default), light or hacker
+listen_for_clients_preferred_style: true # false (default) or true
+
+footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
+
 
 # About/contact
 author:
