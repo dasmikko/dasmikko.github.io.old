@@ -31,7 +31,7 @@ This is just a better PTFE bowden tube from Capricon
 This nozzle should allow me to print with various abbrasive filaments, without nozzle weardown.
 
 
-[![Ruby nozzle](/public/3dprinter/nozzle.jpg "Ruby Nozzle"){:.aspect-video})](/public/3dprinter/nozzle.jpg "Ruby nozzle")
+[![Ruby nozzle](/public/3dprinter/nozzle.jpg "Ruby Nozzle"){:.aspect-video}](/public/3dprinter/nozzle.jpg "Ruby nozzle")
 
 
 #### Custom firmware (Community firmware)
